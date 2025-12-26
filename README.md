@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Amanuel Zerfu</h1>
-<h3 align="center">
-Senior Software Engineer | Android (Kotlin & Jetpack Compose) | Java & Go Backend
-</h3>
+<h3 align="center">Senior Full-Stack Software Engineer</h3>
+<p align="center">
+  Passionate about building end-to-end solutions with modern UI/UX and scalable backend systems<br/>
+  6+ years of professional experience in Android, web frontend, and backend development
+</p>
 
 <p align="center">
-6+ years of experience building scalable mobile and backend systems for high-impact, real-world products.
+  <img src="https://komarev.com/ghpvc/?username=amanzerfu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amanzerfu&label=Profile%20views&color=0e75b6&style=flat" alt="amanzerfu" />
-</p>
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amanzerfu&theme=flat&margin-w=15" alt="amanzerfu" />
+    <img src="https://github-profile-trophy.vercel.app/?username=amanzerfu&theme=flat&margin-w=15&row=1" alt="Trophies" />
   </a>
 </p>
 
@@ -21,77 +19,66 @@ Senior Software Engineer | Android (Kotlin & Jetpack Compose) | Java & Go Backen
 
 ### 👨‍💻 Professional Summary
 
-I am a **Senior Software Engineer with over 6 years of experience** delivering robust, user-centric software solutions across **mobile, backend, and cloud platforms**.
+Senior Full-Stack Software Engineer with **over 6 years of experience** delivering high-impact, user-centric applications from frontend to backend.
 
-Currently, I work on a **high-impact M-Pesa Super App at Safaricom Telecom Ethiopia**, where I lead Android development using **Kotlin and Jetpack Compose**, following **MVVM and Clean Architecture** principles to deliver secure, scalable, and intuitive mobile experiences.
+Currently leading Android development for the **M-Pesa Super App** at **Safaricom Telecom Ethiopia**, building secure and intuitive financial features using **Kotlin** and **Jetpack Compose**.
 
-My expertise extends beyond mobile into **backend engineering with Java (Spring Boot), Go, and Node.js**, working with both **microservices and monolithic architectures**, cloud-native deployments, and CI/CD pipelines. I enjoy solving complex problems, optimizing performance, and building systems that scale reliably under real-world load.
+Strong expertise across the stack:
+- **Frontend/UI**: Modern Android UIs (Jetpack Compose), React, responsive web design
+- **Mobile**: Native Android (Kotlin/Java), MVVM, Clean Architecture
+- **Backend**: Java (Spring Boot), Go, Node.js – microservices, RESTful APIs, event-driven systems
+- **DevOps & Cloud**: Docker, Kubernetes, Jenkins CI/CD, Linux
+
+I thrive on solving complex problems, optimizing performance, and shipping scalable systems that handle real-world traffic.
 
 ---
 
-### 💼 Current Role
+### 💼 Key Experience
 
 **Senior Android Developer**  
 **Safaricom Telecom Ethiopia – M-Pesa Super App**  
-_Addis Ababa, Ethiopia | May 2022 – Present_
+*Addis Ababa, Ethiopia | May 2022 – Present*
 
-- Lead Android development using **Kotlin, Java, and Jetpack Compose** for core financial features such as **Buy Airtime** and **Buy Bundles** using reward accounts  
-- Designed and implemented **Electronic Voucher Distribution (EVD)** printing, integrating Bluetooth-enabled printers for real-time voucher generation  
-- Architected and optimized core Android components (Activities, Services, Fragments, Permissions) to ensure performance, reliability, and maintainability  
-- Built and integrated **RESTful APIs and microservices** using **Spring Boot and Kotlin** for real-time transaction processing and reward balance management  
-- Managed source control with **Git**, implemented **CI/CD pipelines** using **Jenkins and Docker**, and deployed services on **Kubernetes**  
-- Collaborated closely with cross-functional teams in **Agile/Scrum** environments to debug complex hardware/software integrations  
-- Enhanced UI and launcher experiences using **Jetpack Compose**, delivering modern, responsive, and user-friendly designs  
+- Lead development of core financial features (Buy Airtime, Buy Bundles, reward accounts) using **Kotlin** and **Jetpack Compose**
+- Designed and implemented **Electronic Voucher Distribution (EVD)** with Bluetooth printer integration
+- Architected performant Android components following **MVVM** and **Clean Architecture**
+- Built and maintained backend microservices with **Spring Boot** and **Kotlin** for real-time transactions
+- Set up **CI/CD pipelines** (Jenkins, Docker) and deployed services on **Kubernetes**
+- Collaborated in Agile teams to deliver secure, maintainable, and user-friendly experiences
 
 ---
 
-### 🛠️ Technical Expertise
+### 🛠️ Technical Skills
 
-**Mobile**
-- Android (Kotlin, Java)
-- Jetpack Compose
-- MVVM, Clean Architecture
-- Room, Coroutines, Flow
+| Category       | Technologies                                                                 |
+|----------------|------------------------------------------------------------------------------|
+| **Mobile**     | Android (Kotlin, Java), Jetpack Compose, MVVM, Clean Architecture, Room, Coroutines, Flow |
+| **Frontend**   | React, JavaScript, HTML, CSS                                                 |
+| **Backend**    | Java (Spring Boot), Go, Node.js, REST APIs, Microservices                    |
+| **Databases**  | PostgreSQL, MySQL, MongoDB, Redis                                            |
+| **DevOps**     | Docker, Kubernetes, Jenkins, Git, Kafka, RabbitMQ, Linux                     |
 
-**Backend**
-- Java (Spring Boot, JEE)
-- Go (REST APIs, Microservices)
-- Node.js
-- RESTful & event-driven systems
-
-**Databases**
-- PostgreSQL, MySQL
-- MongoDB, Redis
-
-**DevOps & Cloud**
-- Docker, Kubernetes
-- Jenkins (CI/CD)
-- Linux, Git
-- Kafka, RabbitMQ
-
-**Frontend**
-- React, JavaScript, HTML, CSS
-
-<p align="left">
-  <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/></a>
-  <a href="https://spring.io"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
-  <a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
+<p align="center">
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
+  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 🌍 Connect With Me
+### 🌍 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/amanuel-zerfu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/16633119/amanuel-zerfu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
 </p>
 
@@ -99,10 +86,10 @@ _Addis Ababa, Ethiopia | May 2022 – Present_
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanzerfu&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanzerfu&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanzerfu&show_icons=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amanzerfu&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </p>
