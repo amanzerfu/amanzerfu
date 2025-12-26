@@ -39,25 +39,26 @@ I thrive on solving complex problems, optimizing performance, and shipping scala
 **Safaricom Telecom Ethiopia – M-Pesa Super App**  
 *Addis Ababa, Ethiopia | May 2022 – Present*
 
-- Lead development of core financial features (Buy Airtime, Buy Bundles, reward accounts) using **Kotlin** and **Jetpack Compose**
-- Designed and implemented **Electronic Voucher Distribution (EVD)** with Bluetooth printer integration
+- Lead development of core financial features (Reward account( Buy Airtime with reward , Buy Bundles with reward) using **Kotlin** and **Jetpack Compose** also **Flutter** forr lighter version of apps
+- Designed and implemented **Electronic Voucher Distribution (EVD)** with Bluetooth printer integration for  Merchant app from wallet balance
 - Architected performant Android components following **MVVM** and **Clean Architecture**
-- Built and maintained backend microservices with **Spring Boot** and **Kotlin** for real-time transactions
-- Set up **CI/CD pipelines** (Jenkins, Docker) and deployed services on **Kubernetes**
+- Built and maintained backend microservices, event driven systems with **Spring Boot** and Golang for real-time transactions 
+- Set up **CI/CD pipelines** (Jenkins, Docker) and deployed services on **Kubernetes** cluster also **AWS**
 - Collaborated in Agile teams to deliver secure, maintainable, and user-friendly experiences
 
 ---
 
 ### 🛠️ Technical Skills
-
-| Category       | Technologies                                                                 |
-|----------------|------------------------------------------------------------------------------|
+--------------------------------------------------------------------------------------------------------------
+| Category       | Technologies                                                                              |
+|----------------|-------------------------------------------------------------------------------------------|
 | **Mobile**     | Android (Kotlin, Java), Jetpack Compose, MVVM, Clean Architecture, Room, Coroutines, Flow |
-| **Frontend**   | React, JavaScript, HTML, CSS                                                 |
-| **Backend**    | Java (Spring Boot), Go, Node.js, REST APIs, Microservices                    |
-| **Databases**  | PostgreSQL, MySQL, MongoDB, Redis                                            |
-| **DevOps**     | Docker, Kubernetes, Jenkins, Git, Kafka, RabbitMQ, Linux                     |
-
+| **Frontend**   | React,NextJs JavaScript, HTML, CSS                                                        |
+| **Backend**    | Java (Spring Boot), Go, Node.js, REST APIs, Microservices                                 |
+| **Databases**  | PostgreSQL, MySQL, MongoDB, Redis                                                         |
+| **DevOps**     | Docker, Kubernetes, Jenkins, Git, Kafka, RabbitMQ, Linux                                  |
+| **LLM**        | llama 3                                                                                   |
+--------------------------------------------------------------------------------------------------------------
 <p align="center">
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
   <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
@@ -75,21 +76,11 @@ I thrive on solving complex problems, optimizing performance, and shipping scala
 
 <p align="center">
   <a href="https://linkedin.com/in/amanuel-zerfu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="15" width="15" />
   </a>
   <a href="https://stackoverflow.com/users/16633119/amanuel-zerfu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="15" width="15" />
   </a>
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanzerfu&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanzerfu&show_icons=true&hide_border=true" alt="GitHub Stats" />
-</p>
